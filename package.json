@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@avalabs/vue_components": "^0.6.2",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "body-parser": "^1.19.0",
     "connect-history-api-fallback": "^1.6.0",
     "core-js": "^3.4.4",
