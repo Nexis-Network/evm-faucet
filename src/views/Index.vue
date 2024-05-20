@@ -192,7 +192,7 @@
 
             dropAmount(){
                 // ETH has 18 decimal points
-                return (this.dropSize.div(Math.pow(10,18))).toFixed(4);
+                return 1;
             }
         },
         destroyed() {
